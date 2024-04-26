@@ -97,3 +97,8 @@
 .bold {
   font-weight: 700;
 }
+ @media (max-width: 700px) {
+  .App {
+    height: 120vh;
+  }
+ }
