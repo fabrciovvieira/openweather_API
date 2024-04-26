@@ -98,7 +98,8 @@
   font-weight: 700;
 }
  @media (max-width: 700px) {
-  .App {
+  .App,
+  .App::before {
     height: 120vh;
   }
  }
